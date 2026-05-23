@@ -1,0 +1,29 @@
+[
+  {
+    "name": "深大元平体育馆",
+    "location": "粤海校区",
+    "indoor": true,
+    "crowd_level": "medium",
+    "budget_level": "low",
+    "sport_types": ["羽毛球", "力量训练", "跑步机"],
+    "notes": "雨天优先推荐，适合室内训练。"
+  },
+  {
+    "name": "深大后海田径场",
+    "location": "粤海校区",
+    "indoor": false,
+    "crowd_level": "high",
+    "budget_level": "free",
+    "sport_types": ["跑步", "间歇训练", "拉伸"],
+    "notes": "傍晚高峰人流较大，适合晨练。"
+  },
+  {
+    "name": "深大丽湖篮球馆",
+    "location": "丽湖校区",
+    "indoor": true,
+    "crowd_level": "low",
+    "budget_level": "medium",
+    "sport_types": ["篮球", "核心训练"],
+    "notes": "场地较新，适合团体运动安排。"
+  }
+]

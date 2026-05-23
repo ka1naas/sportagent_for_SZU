@@ -1,0 +1,26 @@
+[
+  {
+    "name": "粤海校区荔园食堂",
+    "stall": "轻食能量碗",
+    "price": 18,
+    "tags": ["高蛋白", "性价比"],
+    "protein_estimate_g": 32,
+    "description": "鸡胸肉配糙米和西兰花，适合训练后补给。"
+  },
+  {
+    "name": "沧海校区学生餐厅",
+    "stall": "自选快餐",
+    "price": 14,
+    "tags": ["性价比"],
+    "protein_estimate_g": 22,
+    "description": "可自由搭配鸡蛋、豆腐和时蔬，预算友好。"
+  },
+  {
+    "name": "汇元楼美食广场",
+    "stall": "牛肉饭档口",
+    "price": 24,
+    "tags": ["高蛋白"],
+    "protein_estimate_g": 35,
+    "description": "牛肉双拼套餐，适合高强度训练日。"
+  }
+]
